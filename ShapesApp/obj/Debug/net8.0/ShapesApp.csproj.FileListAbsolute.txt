@@ -1,0 +1,15 @@
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\bin\Debug\net8.0\ShapesApp.exe
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\bin\Debug\net8.0\ShapesApp.deps.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\bin\Debug\net8.0\ShapesApp.runtimeconfig.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\bin\Debug\net8.0\ShapesApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\bin\Debug\net8.0\ShapesApp.pdb
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.AssemblyInfoInputs.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.AssemblyInfo.cs
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.sourcelink.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\refint\ShapesApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.pdb
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ShapesApp.genruntimeconfig.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\ShapesApp\obj\Debug\net8.0\ref\ShapesApp.dll
