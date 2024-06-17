@@ -1,0 +1,15 @@
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\bin\Debug\net8.0\AnimalApp.exe
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\bin\Debug\net8.0\AnimalApp.deps.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\bin\Debug\net8.0\AnimalApp.runtimeconfig.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\bin\Debug\net8.0\AnimalApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\bin\Debug\net8.0\AnimalApp.pdb
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.AssemblyInfoInputs.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.AssemblyInfo.cs
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.csproj.CoreCompileInputs.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.sourcelink.json
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\refint\AnimalApp.dll
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.pdb
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\AnimalApp.genruntimeconfig.cache
+C:\Users\Ephraim\source\repos\dcit318-assignment2-10960584\AnimalApp\obj\Debug\net8.0\ref\AnimalApp.dll
